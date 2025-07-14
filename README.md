@@ -2,7 +2,6 @@
 
 🎯 **Full-Stack Developer** | Backend • Frontend • Mobile  
 📍 Recife, PE, Brasil  
-💼 Desenvolvedor na **Seed a Bit Tecnologia**  
 🎓 Cursando Ciência da Computação na **UFRPE**
 
 ---
