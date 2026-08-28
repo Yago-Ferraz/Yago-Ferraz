@@ -41,8 +41,8 @@ Desenvolvedor Full-Stack apaixonado por transformar ideias em produtos reais —
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yago-Ferraz&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago-Ferraz&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-nine.vercel.app/api?username=Yago-Ferraz&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=Yago-Ferraz&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -51,9 +51,3 @@ Desenvolvedor Full-Stack apaixonado por transformar ideias em produtos reais —
 
 - ✉️ **Email:** yagomouraferraz100@gmail.com
 - 💼 **LinkedIn:** [yago-moura-ferraz-2188b6233](https://www.linkedin.com/in/yago-moura-ferraz-2188b6233/)
-
-<div align="center">
-
-*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
-
-</div>
