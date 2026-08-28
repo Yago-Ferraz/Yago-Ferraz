@@ -10,7 +10,7 @@
 
 </div>
 
-Construo produtos full-stack de ponta a ponta — APIs em Python/Node, frontends em React/TypeScript — com foco em **dados geoespaciais** e **IA aplicada**. Ciência da Computação na UFRPE.
+Construo produtos full-stack de ponta a ponta — APIs em Python/Node, frontends em React/TypeScript — com foco em **dados geoespaciais** e **IA aplicada**. Sistemas de Informação na UFRPE.
 
 - 🔭 Ativamente construindo [**3d-recife**](https://github.com/Yago-Ferraz/3d-recife) — visualização 3D da cidade do Recife
 - 🧠 Aplicando ML em [restauração de imagens](https://github.com/Yago-Ferraz/RestauraFoto) e [transcrição de áudio](https://github.com/Yago-Ferraz/-WhisperX-Transcriber)
@@ -23,20 +23,20 @@ Construo produtos full-stack de ponta a ponta — APIs em Python/Node, frontends
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/Yago-Ferraz/3d-recife"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=3d-recife&theme=default&hide_border=true" /></a></td>
-<td><a href="https://github.com/Yago-Ferraz/entre-nos"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=entre-nos&theme=default&hide_border=true" /></a></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=3d-recife&theme=tokyonight&hide_border=true" /><a href="https://github.com/Yago-Ferraz/3d-recife"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=3d-recife&theme=default&hide_border=true" /></a></picture></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=entre-nos&theme=tokyonight&hide_border=true" /><a href="https://github.com/Yago-Ferraz/entre-nos"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=entre-nos&theme=default&hide_border=true" /></a></picture></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Yago-Ferraz/RestauraFoto"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=RestauraFoto&theme=default&hide_border=true" /></a></td>
-<td><a href="https://github.com/Yago-Ferraz/MapData-Front-End"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=MapData-Front-End&theme=default&hide_border=true" /></a></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=RestauraFoto&theme=tokyonight&hide_border=true" /><a href="https://github.com/Yago-Ferraz/RestauraFoto"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=RestauraFoto&theme=default&hide_border=true" /></a></picture></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=-WhisperX-Transcriber&theme=tokyonight&hide_border=true" /><a href="https://github.com/Yago-Ferraz/-WhisperX-Transcriber"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=-WhisperX-Transcriber&theme=default&hide_border=true" /></a></picture></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Yago-Ferraz/Iris-Assistant"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=Iris-Assistant&theme=default&hide_border=true" /></a></td>
-<td><a href="https://github.com/Yago-Ferraz/Modeling-the-impact-of-non-pharmaceutical-interventions-andvaccination-on-COVID-19-like-outbreaks"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=Modeling-the-impact-of-non-pharmaceutical-interventions-andvaccination-on-COVID-19-like-outbreaks&theme=default&hide_border=true" /></a></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=Iris-Assistant&theme=tokyonight&hide_border=true" /><a href="https://github.com/Yago-Ferraz/Iris-Assistant"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=Iris-Assistant&theme=default&hide_border=true" /></a></picture></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=Modeling-the-impact-of-non-pharmaceutical-interventions-andvaccination-on-COVID-19-like-outbreaks&theme=tokyonight&hide_border=true" /><a href="https://github.com/Yago-Ferraz/Modeling-the-impact-of-non-pharmaceutical-interventions-andvaccination-on-COVID-19-like-outbreaks"><img src="https://github-readme-stats-sigma-nine.vercel.app/api/pin/?username=Yago-Ferraz&repo=Modeling-the-impact-of-non-pharmaceutical-interventions-andvaccination-on-COVID-19-like-outbreaks&theme=default&hide_border=true" /></a></picture></td>
 </tr>
 </table>
 
-<sub>+ backends: <a href="https://github.com/Yago-Ferraz/entre-nos-backend">entre-nos-backend</a> · <a href="https://github.com/Yago-Ferraz/MapData-backend">MapData-backend</a></sub>
+<sub>+ backend: <a href="https://github.com/Yago-Ferraz/entre-nos-backend">entre-nos-backend</a></sub>
 </div>
 
 ---
@@ -60,7 +60,7 @@ Construo produtos full-stack de ponta a ponta — APIs em Python/Node, frontends
   <img height="165" src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=Yago-Ferraz&layout=compact&theme=default&hide_border=true&exclude_repo=-Espalhamento-de-Fake-News-com-Influencers-e-Resist-ncia-Social-Usando-Aut-matos-Celulares" alt="Top Languages" />
 </picture>
 
-<sub>Stats refletem apenas atividade em repositórios públicos — o GitHub não expõe atividade privada a serviços de terceiros.</sub>
+<sub>Commits/PRs contam apenas repositórios públicos (limitação do GitHub para apps de terceiros). Atividade completa no gráfico de contribuições abaixo deste perfil.</sub>
 
 </div>
 
